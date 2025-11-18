@@ -3,7 +3,7 @@ body {
     padding: 10;
     justify-content:center;
     text-align:center;
-    background:cyan;
+    background:linear-gradient(red,blue);
     color:red;
     font-family: 'Happy Monkey', system-ui, sans-serif;
 }
@@ -82,4 +82,5 @@ h1{
   font-size: 28px;
   text-transform: uppercase;
   transition: 0.7s ease;
+
 }
